@@ -73,3 +73,5 @@ There were three statistical tests ran, each with a probability that come from t
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+The graph of the results shown shows that the group of females were not helped in the prevention of aids by the use of medicine. The bar graph shows that the females given the drugs has a higher chance of getting aids. The numerical graph shows that women who took the drug were 20% more likely to get aids than those who didn't. The three statistical tests run prove this as well, as they showed that the probability of a woman getting aids on those drugs were shown.
